@@ -1,0 +1,2 @@
+- name: PestPHP (Run Pest Tests)
+  uses: NWBY/pest-action@v1.2.0
