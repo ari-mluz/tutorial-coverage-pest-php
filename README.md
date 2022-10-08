@@ -9,8 +9,8 @@ Neste guia abordaremos a utilização da ferramenta de cobertura de testes, incl
 - PHP;
 - [Xdebug](https://xdebug.org/docs/install) v2.0+, [PCOV](https://github.com/krakjoe/pcov) ou [PHPDBG](https://www.php.net/manual/en/book.phpdbg.php) (Apenas um destes é necessário);
 - [Composer;](https://getcomposer.org/download/)
-- [PEST](https://pestphp.com/)
-- [Pasta coverage_pest](https://github.com/ari-mluz/tutorial-coverage-pest-php/tree/main/coverage_pest)
+- [PEST;](https://pestphp.com/)
+- [Pasta coverage_pest.](https://github.com/ari-mluz/tutorial-coverage-pest-php/tree/main/coverage_pest)
 
 ## Instalação do framework PEST
 
