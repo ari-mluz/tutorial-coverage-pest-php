@@ -89,8 +89,7 @@ Por padrão, o PEST detecta automaticamente pastas com nome `app` e `src`. Caso 
 		<directory suffix=".php">./src</directory>
 		<directory suffix=".php">./nome_da_sua_pasta</directory>
 	</include>
-</coverage>
-	
+</coverage>	
 ````
 
 Desta forma, também é possível filtrar que pastas estão sendo utilizadas.
