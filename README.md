@@ -151,7 +151,7 @@ Ao cobrir todas as linhas do código, você terá um relatório de 100% de cober
 
 Para este guia, foi criado um vídeo demonstrando na prática cada passo mencionado acima.
 
-Link: 
+Link: [Em breve]
 
 ## Finalizando
 
