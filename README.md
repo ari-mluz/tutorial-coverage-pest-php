@@ -2,6 +2,8 @@
 
 Neste guia abordaremos a utilização da ferramenta de cobertura de testes, incluída no framework de testes PEST, ferramenta open-source baseada no PHPUnit que possui uma boa documentação e uma sintaxe amigável.
 
+*Guia feito por Ariadne Milena L. Silva*.
+
 ## Pré-requisitos
 
 - PHP;
