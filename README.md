@@ -20,8 +20,13 @@ Na pasta raiz do projeto `coverage_pest`, rode o seguinte comando no terminal:
 composer require pestphp/pest --dev --with-all-dependencies
 ```
 
-Após a instalação, você pode rodar o seguinte comando para verificar se o framework está funcionando:
+Após a instalação, rode o seguinte comando para inicializar os arquivos:
 
+```
+./vendor/bin/pest --init
+```
+
+Após os comandos acima, você pode rodar o seguinte comando para verificar se o framework está funcionando:
 ```
 ./vendor/bin/pest 
 ```
